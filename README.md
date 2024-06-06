@@ -1,6 +1,6 @@
-
-Copy code
 # Hi there 👋, I'm Dhananjai Murali
+
+![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 Welcome to my GitHub profile! I’m a Computer Science Student with a passion for Full Stack development. Here’s a bit more about me and what I do.
 
@@ -26,6 +26,7 @@ Here are a few projects I've been working on:
 - [IP Geo-Location Tracker](https://github.com/Dhananjai2003/IP-tracker-nextjs-tailwind): This is my solution the challenge posted on frontendmentor.io.
 - [Attendence System](https://github.com/Dhananjai2003/Attendance-System): Attendance system using face recognition.
 - [Status Update Discord Bot](https://github.com/Dhananjai2003/Status-Update-bot): Discord bot to check, status updates for CTF teams and can be used for other purposes also.
+- [Hobby Hacks](https://github.com/Dhananjai2003/Hobby-Hacks): This is a repo that I made to store and showcase a some of my work that I made while learning.
 
 ## 📫 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhananjai-murali/))
