@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Dhananjai Murali
-
-![Wave](https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif)
+# Hi there 👋, I'm Dhananjai Murali ![Animation](https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif)
 
 Welcome to my GitHub profile! I’m a Computer Science Student with a passion for Full Stack development. Here’s a bit more about me and what I do.
 
