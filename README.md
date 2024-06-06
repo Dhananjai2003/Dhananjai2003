@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dhananjai Murali 
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!, I'm Dhananjai Murali 
 
 Welcome to my GitHub profile! I’m a Computer Science Student with a passion for Full Stack development. Here’s a bit more about me and what I do.
 
