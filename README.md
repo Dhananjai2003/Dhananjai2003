@@ -42,5 +42,4 @@ Here are a few projects I've been working on:
 - [Status Update Discord Bot](https://github.com/Dhananjai2003/Status-Update-bot): Discord bot to check, status updates for CTF teams and can be used for other purposes also.
 - [Hobby Hacks](https://github.com/Dhananjai2003/Hobby-Hacks): This is a repo that I made to store and showcase a some of my work that I made while learning.
 
-## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhananjai-murali/))
+
