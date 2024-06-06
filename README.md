@@ -15,18 +15,16 @@ Welcome to my GitHub profile! I’m a Computer Science Student with a passion fo
 - 💻 **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) , ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript) , ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) , ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) , ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - 🌐 **Web Development**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) , ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ,![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) , ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhananjai2003&show_icons=true&theme=radical)
-
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjai2003&layout=compact&theme=radical)
 
 ## 🌟 Projects
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): A brief description of Project 3.
+- [Programing For Noobs](): This is a GUI based programing language on the web. (ongoing)
+- [IP Geo-Location Tracker](https://github.com/Dhananjai2003/IP-tracker-nextjs-tailwind): This is my solution the challenge posted on frontendmentor.io.
+- [Attendence System](https://github.com/Dhananjai2003/Attendance-System): Attendance system using face recognition.
+- [Status Update Discord Bot](https://github.com/Dhananjai2003/Status-Update-bot): Discord bot to check, status updates for CTF teams and can be used for other purposes also.
 
 ## 📫 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dhananjai-murali/))
