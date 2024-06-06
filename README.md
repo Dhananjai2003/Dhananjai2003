@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m a Computer Science Student with a passion fo
 ## 🚀 About Me
 - 🔭 I’m currently working on GUI based Programing Language
 - 🌱 I’m currently learning NextJS, Django and Networking
-- 👯 I’m looking to collaborate on [Projects or Open Source Initiatives]
 - 💬 Ask me about Full Stack development and Cyber Security.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dhananjai-murali/)
 
