@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a Computer Science Student with a passion fo
 - 🔭 I’m currently working on GUI based Programing Language
 - 🌱 I’m currently learning NextJS, Django and Networking
 - 💬 Ask me about Full Stack development and Cyber Security.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dhananjai-murali/)
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/janedoe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ## 🛠️ My Skills
 
