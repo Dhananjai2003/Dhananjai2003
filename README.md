@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I’m a Computer Science Student with a passion fo
 ## 🌟 Projects
 Here are a few projects I've been working on:
 
-- [Programing For Noobs](): This is a GUI based programing language on the web. (ongoing)
 - [IP Geo-Location Tracker](https://github.com/Dhananjai2003/IP-tracker-nextjs-tailwind): This is my solution the challenge posted on frontendmentor.io.
 - [Attendence System](https://github.com/Dhananjai2003/Attendance-System): Attendance system using face recognition.
 - [Status Update Discord Bot](https://github.com/Dhananjai2003/Status-Update-bot): Discord bot to check, status updates for CTF teams and can be used for other purposes also.
